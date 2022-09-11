@@ -1,0 +1,24 @@
+rn,Conventional dendritic cells (cDCs),Early - Mature B Cells,Erythroid cells,Hematopoietic stem and progenitors (HSPCs),Large pre-B cells,Late - Mature B Cells,Megakaryocites,Memory CD4+ cells,Memory CD8+ T cells,Monocytes,Naive CD4+ T cells,Naive CD8+ T cells,Natural killer T (NKT) cells ,Neutrophils,NK Cells,Plasma Cells,Plasmacytoid dendritic cells (pDCs),Pro-B cells,Pro-Eo.Baso,Pro-Erythroid,Pro-Mono.D,Pro-Neutrophils/GMPs,Small pre-B cells,class.error
+Conventional dendritic cells (cDCs),615,0,1,2,0,0,0,0,1,0,0,0,0,10,0,0,0,1,0,0,4,17,0,0.0552995391705069
+Early - Mature B Cells,1,470,0,5,0,15,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,21,0.085603112840467
+Erythroid cells,4,2,399,9,0,1,0,0,0,0,0,0,0,1,1,0,0,4,0,14,1,2,1,0.0911161731207289
+Hematopoietic stem and progenitors (HSPCs),2,1,6,1257,0,0,0,0,1,0,0,0,0,3,2,0,0,8,0,14,4,6,2,0.0375191424196019
+Large pre-B cells,0,0,0,0,100,1,0,0,1,0,0,0,0,2,0,0,0,8,0,0,0,0,8,0.166666666666667
+Late - Mature B Cells,0,17,0,0,0,410,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0442890442890444
+Megakaryocites,1,0,1,1,0,0,27,0,0,0,0,0,0,1,0,0,0,0,0,10,0,0,0,0.341463414634146
+Memory CD4+ cells,1,0,0,1,1,0,0,792,11,0,6,1,4,1,1,0,0,0,0,0,0,0,0,0.032967032967033
+Memory CD8+ T cells,0,0,0,0,0,0,0,1,832,0,0,1,7,2,3,0,0,0,0,0,0,0,0,0.016548463356974
+Monocytes,2,0,0,0,0,0,0,0,0,130,0,0,0,7,0,0,0,0,0,0,0,0,0,0.064748201438849
+Naive CD4+ T cells,1,0,0,0,0,0,0,8,0,0,272,1,5,0,0,0,0,0,0,0,0,0,0,0.0522648083623694
+Naive CD8+ T cells,0,0,0,0,0,0,0,0,23,0,0,137,1,1,0,0,0,0,0,0,0,0,0,0.154320987654321
+Natural killer T (NKT) cells ,0,0,0,0,0,0,0,1,14,0,2,0,197,0,2,0,0,0,0,0,0,0,0,0.0879629629629629
+Neutrophils,5,0,0,2,0,2,0,0,1,0,0,0,0,1289,0,0,0,0,0,0,0,19,0,0.0220030349013657
+NK Cells,0,1,0,5,0,1,0,3,2,0,1,0,2,1,353,0,0,0,0,0,0,2,0,0.0485175202156334
+Plasma Cells,0,1,4,2,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,1,0,0,0.145454545454546
+Plasmacytoid dendritic cells (pDCs),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,90,0,0,0,16,1,2,0.196428571428571
+Pro-B cells,4,0,3,22,4,0,0,1,1,0,0,0,1,2,0,0,0,295,0,1,5,0,5,0.142441860465116
+Pro-Eo.Baso,1,1,7,12,0,0,0,0,0,0,0,0,0,2,1,0,0,0,27,0,2,1,0,0.5
+Pro-Erythroid,0,0,21,24,0,1,4,0,1,0,0,0,0,1,0,0,0,1,0,123,0,0,0,0.301136363636364
+Pro-Mono.D,17,0,0,4,0,0,0,0,0,0,0,0,0,1,0,0,14,4,0,0,198,3,0,0.178423236514523
+Pro-Neutrophils/GMPs,15,0,2,28,0,0,0,0,0,0,0,0,1,16,2,0,0,2,0,0,6,325,0,0.181360201511335
+Small pre-B cells,0,20,1,3,9,2,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,675,0.0546218487394958
